@@ -1,0 +1,6 @@
+{
+  "name": "Avenue Quantitative Replica Hub",
+  "description": "An interactive replicant simulation of Jane Street quantitative trading operations, featuring hierarchical org charts, cash flow order books, mathematical expected value stoppage puzzles, and OCaml compilers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,33 @@
+{
+  "treasury": {
+    "address": "0x087a7ADcf0bADbe793cA3bd1d433837d02F8408D",
+    "privateKey": "0xbcd4f8ff024e550eb7f69e53c7201d175dcd6c40cae8b89d4fb6051dbc8388e0"
+  },
+  "wallets": [
+    {
+      "agentId": "aq-100",
+      "agentName": "Principal Statistical Arbitrage Node [W1]",
+      "address": "0x35a1b197B1b0116999c4CE6b64ef510F6C84321d",
+      "privateKey": "0x52f2b8c8165e5ba62d3ecf0d6dbf9ee481732d1f740022df01a2ba28e621b989"
+    },
+    {
+      "agentId": "aq-101",
+      "agentName": "Continuous Quote Liquidity Optimizer [W2]",
+      "address": "0xF08f50706061b2Cc69Dc1DcC3E6b9773Aede4F0e",
+      "privateKey": "0x1ff096f9e2e96f32af46fec1e231a0a74a79df6e7e5022fa3db68f8eea447f7d"
+    },
+    {
+      "agentId": "aq-102",
+      "agentName": "Adversarial Market stress testing Bot [W3]",
+      "address": "0x2baA17C6D0006376Fb2868725D356ff07A0374d3",
+      "privateKey": "0xc662479eded23fcdc6599df98f625bfabe2fdeda9c2300fc89405ea07f44ab67"
+    },
+    {
+      "agentId": "aq-103",
+      "agentName": "Cross-Venue Futures Index Arb Node [W4]",
+      "address": "0xbf76408BE68572987eb610fdB01394cB84F103e8",
+      "privateKey": "0x5737a7909d8091001398092d5162370987a4372a39d77be8c4c55e30d3dafbcc"
+    }
+  ],
+  "network": "base-mainnet"
+}
